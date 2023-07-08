@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/LamaSans-Bold.otf",
+      "sha1": "ce4fbda52ef2b6342daaa3bca98599c160493004"
+    },
+    {
+      "path": "src/assets/fonts/LamaSans-Medium.otf",
+      "sha1": "92c0562abb9e96c8ff6bef830155aad57e0652a3"
+    },
+    {
+      "path": "src/assets/fonts/LamaSans-Regular.otf",
+      "sha1": "614ba3aba0baff058ae1694e9b7895e68b0832aa"
+    }
+  ]
+}

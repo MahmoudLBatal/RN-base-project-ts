@@ -1,0 +1,17 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "*": ["src/*"],
+      "components": ["src/components/index"],
+      "hooks": ["src/hooks/index"],
+      "common": ["src/common/index"],
+      "navigation": ["src/navigation/index"],
+      "locale": ["src/locale/index"],
+      "store": ["src/store/index"],
+    }                          
+  },
+  "include": ["src/**/*", "./App.tsx"],
+}
